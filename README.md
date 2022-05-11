@@ -12,6 +12,9 @@ Hồ Thân Chính - Xin chào tất cả các bạn!
 
 Chào iem
 
+Oke e
+
+
 
 
 
