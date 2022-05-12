@@ -2,7 +2,7 @@ git status : kiểm tra xem file nào thay đổi
 
 git add . : đẩy toàn bộ file lên githup
 
-git commit -m "comment" 
+git commit -m "comment" : 
 
 git push origin : hiện poup đăng nhập git
 
