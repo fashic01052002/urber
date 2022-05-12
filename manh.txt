@@ -1,15 +1,3 @@
-NƠI GIAO LƯU HỌC TẬP CHỬI NHAU
-
-manh an buoi
-
-chinh and manh an buoi
-
-Anh chào tất cả mn đã đến kênh git của anh.
-
-Mn cố gắng giaioo lưu học hỏi nha
-
-??????
-
 git status : kiểm tra xem file nào thay đổi
 
 git add . : đẩy toàn bộ file lên githup
