@@ -1,3 +1,2 @@
-Chửi nhau ở đây !!!!!.
-buồi ngọc
+git checkout "ten nhanh" : sử dụng khi cần chuyển qua 1 nhanh mới 
 
