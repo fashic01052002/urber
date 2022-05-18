@@ -1,0 +1,9 @@
+git checkout 'ten nhanh' : sử dụng khi cần chuyển qua 1 nhanh mới 
+git clone 'link repo': tải repository về máy 
+git status : xem có sự thay đổi gì k
+git add 'tên nhánh cần thêm' hoặc thêm cả thì dùng '.': dùng để thêm nhanh 
+git commit -m "nêu về sự thay đổi của mình khi đăng lên git"
+git push origin 'tên nhanh': đẩy commit lên repo được lưu lại trên git
+git pull origin 'tên nhánh ' : cập nhật dữ liệu trên git về repo local
+git branch 'tên nhánh cần thêm':sử dụng để thêm nhánh sau đó sử dụng git -> checkout 'tên nhanh cần thêm' để chuyển nhánh -> sau đó dùng các như bình thường
+git checkout -b 'tên nhánh cần thêm ' : kết hợp của 2 bước branch và checkout để tạo ra nhánh mới

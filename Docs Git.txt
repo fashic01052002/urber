@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+=======
+Tài liệiu Git.
+
+Ngoc sua doc gits......
+
+Ngọc có buồi.
+
+>>>>>>> 4912900ffa26a2f0140c3f285328fe0db14370ef
