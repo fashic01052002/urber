@@ -28,3 +28,9 @@ workflows:
   say-hello-workflow:
     jobs:
       - say-hello
+
+- Trên đây, là phác thảo sơ khai ban đầu về các nội dung có trong dự án Task Manager.
+	- Các bạn đọc kỹ tất cả ( Nhất là phần chức năng nghiệp vụ ), hãy suy nghĩ và đặt mình vào vị trí khách hàng. Trải nghiệm và đưa ra những nhận xét về ứng dụng
+		với những chức năng như trên.
+	
+				                     
